@@ -1,0 +1,2 @@
+# Min, Max, Mean, Median, Mode
+   10, 1042,  322,  253,   82
